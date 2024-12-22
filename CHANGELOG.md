@@ -1,3 +1,10 @@
+## v1.2
+Bug Fixes:
+- Properly retrieve valid secondary signatures for cert name verification (via updated pinvoke library)
+
+Improvements:
+- Updated to .NET 9
+
 ## v1.1
 New Features:
 - selfupdate: Update the wrapper to the latest available and compatible version.
