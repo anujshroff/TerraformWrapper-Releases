@@ -1,3 +1,7 @@
+## v1.3
+Improvements:
+- Remove outdated dependencies
+
 ## v1.2
 Bug Fixes:
 - Properly retrieve valid secondary signatures for cert name verification (via updated pinvoke library)
